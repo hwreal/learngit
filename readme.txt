@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 
 has push to Github haha
 Creating a new branch is quick.
-For master
+For master and dev
